@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap");
+
+h1 {
+  font-family: "Caveat", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+h2 {
+  display: inline-block;
+  rotate: 180deg;
+  padding: 20px;
+  text-align: center;
+}
+
+body {
+  background-color: #82b1ff;
+  height: 800px;
+  width: 800px;
+  margin: auto;
+}
+
+#store {
+  height: 500px;
+  width: 800px;
+  background-color: #7986cb;
+  margin: auto;
+}
+
+.aisles {
+  height: 50px;
+  width: 475px;
+  background-color: #ffff8d;
+  position: relative;
+}
+
+#aisleOne {
+  top: 12px;
+  left: 275px;
+}
+
+#aisleTwo {
+  top: 24px;
+  left: 275px;
+}
+
+#aisleThree {
+  top: 36px;
+  left: 275px;
+}
+
+#aisleFour {
+  top: 48px;
+  left: 275px;
+}
+
+#aisleFive {
+  top: 60px;
+  left: 275px;
+}
+#aisleSix {
+  top: 72px;
+  left: 275px;
+}
+#aisleSeven {
+  top: 84px;
+  left: 275px;
+}
+
+.registers {
+  height: 75px;
+  width: 150px;
+  background-color: #ffff8d;
+  position: relative;
+  left: 85px;
+}
+
+#registerOne {
+  top: -300px;
+}
+#registerTwo {
+  top: -280px;
+}
+#registerThree {
+  top: -260px;
+}
+
+.frontDoor {
+  height: 75px;
+  width: 35px;
+  background-color: #ffff8d;
+  position: relative;
+}
+
+#rightDoor {
+  top: -400px;
+}
+
+#leftDoor {
+  top: -401px;
+}
