@@ -5,13 +5,14 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
-  text-align: center;
+/*   text-align: center; */
 }
 
 h2 {
   display: inline-block;
   rotate: 180deg;
   padding: 20px;
+  text-align: center;
 }
 
 body {
